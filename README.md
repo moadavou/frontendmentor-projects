@@ -2,8 +2,8 @@
 
 | Completed  | Difficulty                             | Challenge                                                                                    | Tools                        |
 |------------|----------------------------------------|----------------------------------------------------------------------------------------------|------------------------------|
-| yyyy-mm-dd | <div align="center"> ![newbie] </div>  | [Results summary component](https://github.com/moadavou/results-summary-component)           | ![sass] ![postcss]           |
-| 2024-06-03 | <div align="center"> ![newbie] </div>  | [Meet landing page](https://github.com/moadavou/meet-landing-page)                           | ![sass] ![postcss]           |
+| 2024-06-05 | <div align="center"> ![newbie] </div>  | [Results summary component](https://github.com/moadavou/results-summary-component)           | ![sass] ![postcss]           |
+| 2024-06-04 | <div align="center"> ![newbie] </div>  | [Meet landing page](https://github.com/moadavou/meet-landing-page)                           | ![sass] ![postcss]           |
 | 2024-05-03 | <div align="center"> ![junior] </div>  | [Testimonials grid section](https://github.com/moadavou/testimonials-grid-section)           |                              |
 | 2024-04-27 | <div align="center"> ![newbie] </div>  | [Four card feature section](https://github.com/moadavou/four-card-feature-section)           |                              |
 | 2024-04-25 | <div align="center"> ![newbie] </div>  | [Product preview card component](https://github.com/moadavou/product-preview-card-component) |                              |
