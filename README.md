@@ -2,6 +2,7 @@
 
 | Completed  | Difficulty                             | Challenge                                                                                    | Tools                        |
 |------------|----------------------------------------|----------------------------------------------------------------------------------------------|------------------------------|
+| 2024-06-21 | <div align="center"> ![newbie] </div>  | [Article preview component](https://github.com/moadavou/article-preview-component)           | ![sass] ![postcss]           |
 | 2024-06-05 | <div align="center"> ![newbie] </div>  | [Results summary component](https://github.com/moadavou/results-summary-component)           | ![sass] ![postcss]           |
 | 2024-06-04 | <div align="center"> ![newbie] </div>  | [Meet landing page](https://github.com/moadavou/meet-landing-page)                           | ![sass] ![postcss]           |
 | 2024-05-03 | <div align="center"> ![junior] </div>  | [Testimonials grid section](https://github.com/moadavou/testimonials-grid-section)           |                              |
