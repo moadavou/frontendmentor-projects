@@ -1,17 +1,18 @@
 # Frontend Mentor Challenges
 
-| Completed  | Difficulty                             | Challenge                                                                                    | Tools                        |
-|------------|----------------------------------------|----------------------------------------------------------------------------------------------|------------------------------|
-| 2024-06-21 | <div align="center"> ![newbie] </div>  | [Article preview component](https://github.com/moadavou/article-preview-component)           | ![sass] ![postcss]           |
-| 2024-06-05 | <div align="center"> ![newbie] </div>  | [Results summary component](https://github.com/moadavou/results-summary-component)           | ![sass] ![postcss]           |
-| 2024-06-04 | <div align="center"> ![newbie] </div>  | [Meet landing page](https://github.com/moadavou/meet-landing-page)                           | ![sass] ![postcss]           |
-| 2024-05-03 | <div align="center"> ![junior] </div>  | [Testimonials grid section](https://github.com/moadavou/testimonials-grid-section)           |                              |
-| 2024-04-27 | <div align="center"> ![newbie] </div>  | [Four card feature section](https://github.com/moadavou/four-card-feature-section)           |                              |
-| 2024-04-25 | <div align="center"> ![newbie] </div>  | [Product preview card component](https://github.com/moadavou/product-preview-card-component) |                              |
-| 2024-04-23 | <div align="center"> ![newbie] </div>  | [Recipe page](https://github.com/moadavou/recipe-page)                                       |                              |
-| 2024-04-22 | <div align="center"> ![newbie] </div>  | [Social links profile](https://github.com/moadavou/social-links-profile)                     |                              |
-| 2024-04-17 | <div align="center"> ![newbie] </div>  | [Blog preview card](https://github.com/moadavou/blog-preview-card)                           |                              |           
-| 2024-04-17 | <div align="center"> ![newbie] </div>  | [QR code component](https://github.com/moadavou/qr-code-component)                           |                              |
+| Completed  | Difficulty                             | Challenge                                                                                                           | Tools                        |
+|------------|----------------------------------------|---------------------------------------------------------------------------------------------------------------------|------------------------------|
+| 2024-08-06 | <div align="center"> ![junior] </div>  | [Newsletter sign-up form with success message](https://github.com/moadavou/newsletter-sign-up-with-success-message) | ![sass] ![postcss]           |
+| 2024-07-04 | <div align="center"> ![newbie] </div>  | [Article preview component](https://github.com/moadavou/article-preview-component)                                  | ![sass] ![postcss]           |
+| 2024-06-05 | <div align="center"> ![newbie] </div>  | [Results summary component](https://github.com/moadavou/results-summary-component)                                  | ![sass] ![postcss]           |
+| 2024-06-04 | <div align="center"> ![newbie] </div>  | [Meet landing page](https://github.com/moadavou/meet-landing-page)                                                  | ![sass] ![postcss]           |
+| 2024-05-03 | <div align="center"> ![junior] </div>  | [Testimonials grid section](https://github.com/moadavou/testimonials-grid-section)                                  |                              |
+| 2024-04-27 | <div align="center"> ![newbie] </div>  | [Four card feature section](https://github.com/moadavou/four-card-feature-section)                                  |                              |
+| 2024-04-25 | <div align="center"> ![newbie] </div>  | [Product preview card component](https://github.com/moadavou/product-preview-card-component)                        |                              |
+| 2024-04-23 | <div align="center"> ![newbie] </div>  | [Recipe page](https://github.com/moadavou/recipe-page)                                                              |                              |
+| 2024-04-22 | <div align="center"> ![newbie] </div>  | [Social links profile](https://github.com/moadavou/social-links-profile)                                            |                              |
+| 2024-04-17 | <div align="center"> ![newbie] </div>  | [Blog preview card](https://github.com/moadavou/blog-preview-card)                                                  |                              |           
+| 2024-04-17 | <div align="center"> ![newbie] </div>  | [QR code component](https://github.com/moadavou/qr-code-component)                                                  |                              |
 
 [sass]: https://img.shields.io/badge/Sass-gray?logo=sass&logoColor=white
 [postcss]: https://img.shields.io/badge/PostCSS-gray?logo=postcss&logoColor=white
